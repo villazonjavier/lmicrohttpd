@@ -1,0 +1,9 @@
+Debug
+Release
+*.sln
+.vs/
+Controller.h
+Grantia.vcxproj
+Grantia.vcxproj.filters
+Grantia.vcxproj.user
+
