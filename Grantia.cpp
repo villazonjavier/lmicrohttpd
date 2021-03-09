@@ -69,7 +69,7 @@ int main() {
 /*********************************************************************************************/
 
 /*********************************************************************************************/
-    std::cout << "Ingrese un numero para la sucesion de fibonacci: ";
+    std::cout << "Ingrese usted un numero para la sucesion de fibonacci: ";
     std::cin >> lim;
     Fibo SerieFibo(lim);
     SerieFibo.fibo_position();
